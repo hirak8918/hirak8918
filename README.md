@@ -1,4 +1,31 @@
 # 👋 Hi, I’m Hirak Barman
+<svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="120">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="stop-color"
+          values="#00c6ff;#7f00ff;#00c6ff"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0072ff">
+        <animate attributeName="stop-color"
+          values="#0072ff;#00ffcc;#0072ff"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#grad)">
+    <animate attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+        M0,40 C200,80 400,0 600,40 800,80 1000,20 1200,40 L1200,0 L0,0 Z;
+        M0,30 C200,0 400,80 600,30 800,0 1000,60 1200,30 L1200,0 L0,0 Z;
+        M0,40 C200,80 400,0 600,40 800,80 1000,20 1200,40 L1200,0 L0,0 Z
+      " />
+  </path>
+</svg>
 
 ## 💫 About Me
 📌 Agriculture student at **BCKV** with a strong interest in computers, emerging technologies, coding, and building websites & applications.  
@@ -8,41 +35,6 @@
 📌 Built a couple of applications using **AI-assisted development**.  
 
 📌 Planning to learn and build projects using **Dart, Java, and C++**.
-
----
-
-<div align="center">
-
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="8" height="8"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-  </tr>
-  <tr>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#000000"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#000000"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-  </tr>
-  <tr>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-    <td width="8" height="8" bgcolor="#c68642"></td>
-  </tr>
-</table>
-
-<sub>😴 pixel cat sleeping</sub>
-
-</div>
-
-
----
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hirak.cc)
