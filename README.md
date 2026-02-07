@@ -13,44 +13,34 @@
 
 <div align="center">
 
-<table cellpadding="0" cellspacing="0" style="background:#1e1e2e; padding:6px;">
+<table cellpadding="0" cellspacing="0">
   <tr>
-    <td></td><td></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td></td><td></td>
+    <td width="8" height="8"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
   </tr>
   <tr>
-    <td></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#000000"></td><td bgcolor="#000000"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#000000"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#000000"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
   </tr>
   <tr>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td bgcolor="#c68642"></td><td bgcolor="#c68642"></td>
-    <td></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
+    <td width="8" height="8" bgcolor="#c68642"></td>
   </tr>
 </table>
 
-<sub>😴 pixel cat taking a break between commits</sub>
+<sub>😴 pixel cat sleeping</sub>
 
 </div>
+
 
 ---
 
