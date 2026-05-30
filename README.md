@@ -29,10 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hirak8918&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=hirak8918&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirak8918&theme=dark&hide_border=false&layout=compact)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4991e2a1-2029-4480-8e60-5aa056cecc96" alt="Computer smashing" width="500" />
