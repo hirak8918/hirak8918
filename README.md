@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Hirak Barman
+#  Hi, I’m Hirak Barman
 
-## 💫 About Me
-📌 Agriculture student at **BCKV** with a strong interest in computers, emerging technologies, coding, and building websites & applications.  
+##  About Me
+ Agriculture student at **BCKV** with a strong interest in computers, emerging technologies, coding, and building websites & applications.  
 
-📌 Fundamental understanding of **HTML** and **Python**.  
+ Fundamental understanding of **HTML** and **Python**.  
 
-📌 Built a couple of applications using **AI-assisted development**.  
+ Built a couple of applications using **AI-assisted development**.  
 
-📌 Planning to learn and build projects using **Dart, Java, and C++**.
+ Planning to learn and build projects using **Dart, Java, and C++**.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hirak.cc)
