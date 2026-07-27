@@ -30,11 +30,3 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4991e2a1-2029-4480-8e60-5aa056cecc96" alt="Computer smashing" width="500" />
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=hirak8918&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM -->
